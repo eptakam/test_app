@@ -9,4 +9,7 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   root 'pages#home'
+
+  # definir la route pour la page about qui s'obtiendra par un get (localhost:3000/about)
+  get 'about', to: 'pages#about'
 end
