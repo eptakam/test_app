@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+First test repo on the Complete Ruby on Rails Developer by Mashrur Hossain
